@@ -3,7 +3,8 @@
 # Creacion de  videojuego en 2D 
 
 #Integrantes:
-Jose Luis Jarro C.
-Anthony Cano Sucso 
+-Jose Luis Jarro C.
+-Anthony Cano Sucso 
+
 #url del video youtube  
-https://www.youtube.com/watch?v=YN2yffgOYJQ
+-https://www.youtube.com/watch?v=YN2yffgOYJQ
