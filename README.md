@@ -1,10 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wfZ8MWM2)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14972011)
-# Creacion de  videojuego en 2D 
+# Integrantes:
+- Anthony Cano Sucso    
+- Jose Luis Jarro C.
 
-#Integrantes:
--Jose Luis Jarro C.
--Anthony Cano Sucso 
+# Proyecto: Froggy's Fruit Adventure
 
-#url del video youtube  
--https://www.youtube.com/watch?v=YN2yffgOYJQ
+## Descripción del Videojuego
+Froggy's Fruit Adventure es un juego en el que controlas a una simpática rana que debe recolectar frutas para completar su misión. Sin embargo, ten cuidado con las cabezas de pino con pinchos, ya que al tocarlas reiniciarán el juego. ¿Podrás ayudar a Froggy a recoger todas las frutas y superar los desafíos?
+
+## Imágenes (Se muesran imagenes del juego)
+
+![captura1](img/img1.jpeg)
+![captura2](img/img2.jpeg)
+![captura3](img/img3.jpeg)
+
+
+## Características Principales
+- Controla a Froggy a través de diferentes niveles llenos de frutas y obstáculos.
+- Recolecta todas las frutas para completar la misión y avanzar al siguiente nivel.
+- Evita las cabezas de pino con pinchos, ya que reiniciarán el juego si las tocas.
+- ¡Disfruta de la simplicidad y diversión de este adictivo juego!
+
+## Instalación
+ -UNITY
+## Licencia
+ Este proyecto es una demo en 2D
+
+## Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en [skhjsfsdhjsdh@gmail.com].
+
+¡Gracias por tu interés en Froggy's Fruit Adventure!
