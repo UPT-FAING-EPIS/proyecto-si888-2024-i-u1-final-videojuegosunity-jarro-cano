@@ -7,11 +7,12 @@
 ## Descripción del Videojuego
 Froggy's Fruit Adventure es un juego en el que controlas a una simpática rana que debe recolectar frutas para completar su misión. Sin embargo, ten cuidado con las cabezas de pino con pinchos, ya que al tocarlas reiniciarán el juego. ¿Podrás ayudar a Froggy a recoger todas las frutas y superar los desafíos?
 
-## Imágenes (Se muesran imagenes del juego)
+## Imágenes (Se muestran imagenes del juego)
 
 ![captura1](img/img1.jpeg)
 ![captura2](img/img2.jpeg)
 ![captura3](img/img3.jpeg)
+
 
 
 ## Características Principales
