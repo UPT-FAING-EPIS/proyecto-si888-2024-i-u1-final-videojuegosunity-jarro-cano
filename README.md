@@ -3,4 +3,4 @@
 # proyecto-formatos-01
 
 #url del video youtube  
-https://classroom.github.com/a/wfZ8MWM2
+https://www.youtube.com/watch?v=YN2yffgOYJQ
